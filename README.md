@@ -82,9 +82,9 @@ C = | 50  43 |   (0x0032, 0x002B)
     | 22  19 |   (0x0016, 0x0013)
 ```
 
-**Test 2 — identity × identity = identity** ✅
+**Test 2 — identity × identity = identity** 
 
-**Test 3 — zero matrix = all zeros** ✅
+**Test 3 — zero matrix = all zeros** 
 
 **Test 4 — larger values:**
 ```
@@ -98,7 +98,7 @@ C = | 350  475 |   (0x015E, 0x01DB)
 ### Waveform
 ![Simulation Waveform](https://github.com/user-attachments/assets/ee0a5698-68a0-43ac-a8b2-367854a3d580)
 
-### Synthesized Netlist
+### Synthesized schematic
 ![Netlist](https://github.com/user-attachments/assets/6947829f-1030-47b9-b645-a59e94837e5f)
 
 ### Schematic
