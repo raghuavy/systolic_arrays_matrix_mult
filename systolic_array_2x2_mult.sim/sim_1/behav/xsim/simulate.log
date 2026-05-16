@@ -1,0 +1,2 @@
+Time resolution is 1 ps
+$finish called at time : 355 ns : File "D:/RISC-V/systolic_array_2x2_mult/systolic_array_2x2_mult.srcs/sim_1/new/tb_mat_mul.sv" Line 81
