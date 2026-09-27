@@ -1,3 +1,7 @@
+> **Historical Vivado implementation.** For the later output-stationary RTL-to-GDSII project, start at [2x2_systolic_array_matrix_mult](https://github.com/raghuavy/2x2_systolic_array_matrix_mult). For club collaboration, see [Stone Arch Silicon’s systolic project](https://github.com/Stone-Arch-Silicon/Mat_Mul_Systolic_Arrays).
+>
+> This earlier implementation and its original documentation are retained for reference. New development belongs in the relevant project above.
+
 # systolic_arrays_matrix_mult
 
 > 2×2 matrix multiplier implemented using a systolic array architecture in SystemVerilog.
